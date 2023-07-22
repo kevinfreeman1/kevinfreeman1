@@ -9,7 +9,7 @@
 
 <h2>📜 Certifications:</h2>
 
-- <b>PowerShell</b>
+- <b>Salesforce</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
 - <b>Python</b>
