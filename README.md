@@ -2,17 +2,12 @@
 
 <h2>👩🏾‍💻 Cybersecurity Projects Projects:</h2>
 
-- <b>PowerShell</b>
+- [Windows Defender AntiVirus](https://github.com/kevinfreeman1/Windows-Defender-Antivirus-Lab)
+- [Windows Defender Firewall](https://github.com/kevinfreeman1/Windows-Defender-Firewall-Lab)
  
-
-- <b>Python</b>
-
 <h2>📜 Certifications:</h2>
-
 - <b>Salesforce</b>
 
-
-- <b>Python</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
